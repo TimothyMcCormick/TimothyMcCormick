@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Beginning with "Hello World" in Python, I knew I wanted to pursue a career in software development. As time went by at my job, I researched learning opportunities while dabbling in coding. Eventually I found Boise CodeWorks, who has been crucial in my learning process. I am currently attending CodeWorks (soon to be updated with "Working at ..'Some Awesome Company'..😎"). I love problem solving and the amazing feeling that comes with finding solutions (as long as that may take!) 
+Beginning with "Hello World" in Python, I knew I wanted to pursue a career in software development. As time went by at my job, I researched learning opportunities while dabbling in coding. Eventually I found Boise CodeWorks, who has been crucial in my learning process. I am currently looking for work and continuing to practice what I learned from CodeWorks (soon to be updated with "Working at ..'Some Awesome Company'..😎"). I love problem solving and the amazing feeling that comes with finding solutions (as long as that may take!) 
 
-### I’m currently learning: 
+### My Skills: 
 
-HTML & CSS, JavaScript ES6, Web API / HTTP, JS Frameworks, Nodejs, DotNet Core C#, SQL, MongoDb and Agile / Scrum.
+HTML & CSS, JavaScript ES6, Web API / HTTP, JS Frameworks, Nodejs, DotNet Core C#, Python, C++, SQL, MongoDb and Agile / Scrum.
 
 ### Some things that I enjoy...
 
