@@ -8,7 +8,7 @@ HTML & CSS, JavaScript ES6, Web API / HTTP, JS Frameworks, Nodejs, DotNet Core C
 
 ### Some things that I enjoy...
 
--Playing drums and some guitar.
+-Playing drums and guitar.
 
 -Snowboarding
 
